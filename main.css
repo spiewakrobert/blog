@@ -121,3 +121,147 @@ figcaption
 	background-color: #191d21;
 
 }
+
+.entry
+{
+	background-color: #222939;
+	padding: 10px;
+	text-align: justify;
+	margin-top: 40px;
+	border-radius: 5px;
+}
+
+.entryimg
+{
+	display: inline-block;
+	margin-left: 30px;
+	width: 110px;
+}
+
+.entryimg img
+{
+	width: 90px;
+	height: 90px;
+}
+
+.entrytxt
+{
+	display: inline-block;
+	width: 750px;
+	font-size: 15px;
+}
+
+h2
+{
+	font-size: 20px;
+	font-weight: 400px;
+	color: #39a5f1;
+}
+
+.contact
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 950px;
+	padding-bottom: 70px;
+	margin-bottom: 50px;
+}
+
+.contact p
+{
+	margin-bottom: 50px;
+}
+
+.bluebutton
+{
+	background-color: #1c74b2;
+	padding: 15px;
+	color: #efefef;
+	font-size: 19px;
+	text-decoration: none;
+	border-radius: 5px;
+	min-width: 300px;
+}
+
+.bluebutton:hover
+{
+	background-color: #196499;
+}
+
+.info
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+}
+
+.socials
+{
+	width: 100%;
+	background-color: #191d21;
+	text-align: center;
+}
+
+.socialdivs
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.yt
+{	
+
+	width:250px;
+	height:155px;
+	float:left;
+
+}
+.yt:hover
+{
+	background-color: #ee0000;
+}
+.fb
+{	
+
+	width:250px;
+	height:155px;
+	float:left;
+
+}
+.fb:hover
+{
+	background-color: #2a4887;
+}
+.gplus
+{	
+
+	width:250px;
+	height:155px;
+	float:left;
+
+}
+.gplus:hover
+{
+	background-color: #c23725;
+}
+.tw
+{	
+
+	width:250px;
+	height:155px;
+	float:left;
+
+}
+.tw:hover
+{
+	background-color: #00abdd;
+}
+
+
+.icon-facebook-squared
+{
+	text-align: center;
+}
